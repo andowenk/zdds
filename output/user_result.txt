@@ -1,0 +1,14 @@
+更新时间,#genre#
+2024-11-01 12:45:03,url
+浙江频道,#genre#
+浙江国际,http://61.163.58.195:1718/zhejiang.php?id=zjgj$订阅源
+浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?$订阅源|1920x1080
+浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8$订阅源|1920x1080
+浙江少儿,http://61.163.58.195:1718/zhejiang.php?id=zjse$订阅源
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源|1920x1080
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?$订阅源|1920x1080
+浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源|1920x1080
+浙江少儿,http://120.55.49.231:8617/rtp/233.50.201.138:5140$组播源
+浙江少儿,http://120.55.49.231:3095/rtp/233.50.201.138:5140$组播源
+🈳无结果频道,#genre#
+温州新闻,url
