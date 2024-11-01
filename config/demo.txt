@@ -180,6 +180,34 @@ Now华剧
 星卫娱乐
 卫视卡式
 
+国际频道,#genre#
+CNA
+NHK World
+Al Jazeera
+Arirang
+日本全天新闻
+AXS TV Now
+Bloomberg Asia
+Fashion TV
+Trace Sports
+RT News
+RT Español
+RT Français
+RT Arabic
+RT DE
+RT Documentary
+RT Doc-Русский
+SKY
+KBS world
+Newsmax
+CBN News
+TBS
+Taiwan Plus
+Love Nature
+Fight Network
+Wild Earth
+Pop
+
 🎬电影频道,#genre#
 CHC家庭影院
 CHC动作电影
