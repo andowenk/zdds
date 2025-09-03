@@ -6,5 +6,4 @@
 https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/zjyd1%20(2).txt
 
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt
-https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
-https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
+https://raw.githubusercontent.com/Kimentanm/aptv/91c482a7c481d0fe1668d0b6b701119ad9ad49c0/m3u/zjyd.m3u
