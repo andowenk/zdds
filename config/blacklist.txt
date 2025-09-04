@@ -2,3 +2,4 @@
 # This is the interface blacklist list, the interface matching the keyword will be blocked, one keyword line
 /audio/
 fjcm-2118.live.iptv.darwinchow.com
+fjcm-2117.live.iptv.darwinchow.com
